@@ -1,7 +1,19 @@
-1		SubjectID
-2		Activity
+CODE BOOK
+=========
 
-3		tBodyAccmeanX
+##Variables
+
+COLUMN	VARIABLE NAME
+1		SubjectID (Integer)
+2		Activity (6 Possible Strings)
+		1. Walking
+		2. WalkingUpstairs
+		3. WalkingDownstairs
+		4. Sitting
+		5. Standing
+		6. Laying
+
+3		tBodyAccmeanX (Numerical, as are all remaining values)
 4		tBodyAccmeanY
 5		tBodyAccmeanZ
 6		tBodyAccstdX

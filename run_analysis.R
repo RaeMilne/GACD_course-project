@@ -46,7 +46,7 @@ tidyData$Activity <- factor(tidyData$Activity, levels=c(1:6), labels=activityNam
 
 write.table(tidyData, file="tidyData.txt") #create a text file of the tidy data set
 
-tidyData #return the tidy data set
+tidyData #return the tidy data set to the R working environment
 
 }
 
