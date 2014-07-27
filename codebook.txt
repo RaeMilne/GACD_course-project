@@ -50,37 +50,52 @@ COLUMN	VARIABLE NAME
 
 33		tBodyAccMagmean
 34		tBodyAccMagstd
+
 35		tGravityAccMagmean
 36		tGravityAccMagstd
+
 37		tBodyAccJerkMagmean
 38		tBodyAccJerkMagstd
+
 39		tBodyGyroMagmean
 40		tBodyGyroMagstd
 41		tBodyGyroJerkMagmean
 42		tBodyGyroJerkMagstd
+
 43		fBodyAccmeanX
 44		fBodyAccmeanY
 45		fBodyAccmeanZ
 46		fBodyAccstdX
 47		fBodyAccstdY
 48		fBodyAccstdZ
+
 49		fBodyAccJerkmeanX
 50		fBodyAccJerkmeanY
 51		fBodyAccJerkmeanZ
 52		fBodyAccJerkstdX
 53		fBodyAccJerkstdY
 54		fBodyAccJerkstdZ
+
 55		fBodyGyromeanX
 56		fBodyGyromeanY
 57		fBodyGyromeanZ
 58		fBodyGyrostdX
 59		fBodyGyrostdY
 60		fBodyGyrostdZ
+
 61		fBodyAccMagmean
 62		fBodyAccMagstd
+
 63		fBodyBodyAccJerkMagmean
 64		fBodyBodyAccJerkMagstd
+
 65		fBodyBodyGyroMagmean
 66		fBodyBodyGyroMagstd
+
 67		fBodyBodyGyroJerkMagmean
 68		fBodyBodyGyroJerkMagstd
+
+##Notes
+
+This tidy dataset was derived from the Human Activity Recognition Using Smartphones Dataset
+using the script "run_analysis.R." See README.md for more information.

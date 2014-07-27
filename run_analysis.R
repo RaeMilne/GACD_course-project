@@ -3,7 +3,7 @@
 #Jul 2014
 #Coursera - Getting and Cleaning Data Course
 
-runanalysis <- function() {
+run_analysis <- function() {
 
 require(reshape2) #include reshape2 library for 'melt' and 'dcast' functions
 
