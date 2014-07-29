@@ -1,5 +1,11 @@
 #README.md
 
+##Files Included
+
+'codebook.txt': Lists variables
+'run_analysis.R': Script for creating tidy data from original dataset
+'tidyData.txt': A tidy dataset produced by running the above script
+
 ##Original Data 
 
 Original data downloaded from this source:
